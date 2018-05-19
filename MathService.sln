@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceServer", "MathService\MathServiceServer.csproj", "{1AF9C82D-6356-4434-B76C-50C9282303CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathServiceClient", "MathServiceClient\MathServiceClient.csproj", "{2C3A2A64-D6B2-41F1-9E84-4CAFBB6295EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF9C82D-6356-4434-B76C-50C9282303CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF9C82D-6356-4434-B76C-50C9282303CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF9C82D-6356-4434-B76C-50C9282303CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF9C82D-6356-4434-B76C-50C9282303CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C3A2A64-D6B2-41F1-9E84-4CAFBB6295EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C3A2A64-D6B2-41F1-9E84-4CAFBB6295EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C3A2A64-D6B2-41F1-9E84-4CAFBB6295EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C3A2A64-D6B2-41F1-9E84-4CAFBB6295EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D841B6CC-2E4C-4770-8943-CFD2F01EF4F4}
+	EndGlobalSection
+EndGlobal
